@@ -1,0 +1,28 @@
+.navigator {
+    width: 100%;
+    padding: 20px 15%;
+    background-color: #5c5cf5;
+    position: sticky;
+    top: 50px;
+    z-index: 999;
+}
+
+.navigator ul {
+    display: flex;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.navigator ul li {
+    margin-right: 10px;
+}
+
+.navigator ul li:last-child {
+    margin-right: 0;
+}
+
+.navigator ul li a {
+    color: white;
+    text-decoration: none;
+}

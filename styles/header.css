@@ -1,0 +1,15 @@
+.header {
+  width: 100%;
+  padding: 20px 15%;
+  color: white;
+  background-color: #f26c6c;
+  position: sticky;
+  top: 0px;
+  z-index: 999;
+}
+
+.page_header {
+  font-size: 24px;
+  font-weight: bold;
+  padding: 0px 10px 30px 10px;
+}
